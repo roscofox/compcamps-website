@@ -1,0 +1,37 @@
+html, body{
+  width: 100%;
+  margin: 0;
+padding: 0;
+background-color: #4C0096;
+font-family: 'Lemonada', cursive;
+}
+
+.container {
+  text-align: center;
+}
+.image{
+  width: 250px;
+  margin-top: 100px;
+  border-radius: 50% 0;
+}
+.nav{
+  margin: 0;
+  padding: 0;
+  background-color:#FF1200;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+
+.nav-link {
+display: inline-block;
+padding: 25px;
+
+}
+
+a:hover{
+  text-decoration: none;
+  color:green;
+}
