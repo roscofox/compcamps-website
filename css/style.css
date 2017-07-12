@@ -33,5 +33,12 @@ padding: 25px;
 
 a:hover{
   text-decoration: none;
-  color:green;
+  color:#00E325;
+}
+.active{
+color:#00E325;
+
+}
+.container{
+  text-align: center;
 }
