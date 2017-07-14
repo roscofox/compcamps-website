@@ -42,3 +42,10 @@ color:#00E325;
 .container{
   text-align: center;
 }
+table {
+  width: 60%;
+  margin: 0px 20% 0px 20%;
+}
+td > iframe {
+  width: 100px;
+}
